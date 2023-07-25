@@ -1,0 +1,16 @@
+.thumbnail {margin-bottom:6px;}
+
+.carousel-control.left,.carousel-control.right{
+  background-image:none;
+  margin-top:10%;
+  width:5%;
+}
+
+.img{
+    height: 15%;
+    width: 33%;
+    margin-left: 10%;
+}
+h5{
+    text-align: start;
+}
